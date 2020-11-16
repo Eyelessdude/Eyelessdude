@@ -1,6 +1,6 @@
 # Bohdan Dudka
 
-### Back End Developer
+### Back-end Developer
 
 Mostly working with Java and Spring stack.
 
